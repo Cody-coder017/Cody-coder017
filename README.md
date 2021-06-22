@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Cody-coder017
-- 👀 I’m interested in ... Ai in cybersecurity
-- 🌱 I’m currently learning ... kali linux
+- 👀 I’m interested in ... feild of ai
+- 🌱 I’m currently learning ... kaggle
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... mail
 
 <!---
 Cody-coder017/Cody-coder017 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
