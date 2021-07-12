@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... feild of ai
 - 🌱 I’m currently learning ... kaggle
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... venkatkrishnan2003@gmail.com
+- 📫 How to reach me ... 74406604+Cody-coder017@users.noreply.github.com
 
 <!---
 Cody-coder017/Cody-coder017 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
