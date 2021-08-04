@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cody-coder017
 - 👀 I’m interested in ... feild of ai
-- 🌱 I’m currently learning ... kaggle
+- 🌱 I’m currently learning ... Processing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 74406604+Cody-coder017@users.noreply.github.com
 
