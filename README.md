@@ -1,7 +1,7 @@
 
 ### Hi there, I'm Venkatakrishnan.R - a.k.a <b>Cody-coder017</b> 👋
 
-## I'm a Student Pursueing specialization in Artificial Intelligence, !
+## I'm a Student having specialization in Artificial Intelligence, !
 
 - 🔅 <i><b>Learning everything</b></i>🙃
 - 🔮 <i><b>Currently working on Processing</b></i>
