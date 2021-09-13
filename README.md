@@ -9,6 +9,8 @@
 - ❄️ <i><b>Fun fact: I am learning Japanese/Processing/Kaggle</b></i>
 - 😎 <i><b>Member at the [Cognizance-Amrita University][cognizance]  </b></i>
 
+
+
 ### Connect with me:
 
 
@@ -30,14 +32,14 @@
 ### 📊 Github Stats:
 <p align="left">
     <a href="https://github.com/Cody-coder017/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Cody-coder017 streak" src="https://github-readme-streak-stats.herokuapp.com?user=Cody-coder017&theme=midnight-purple&hide_border=true&border=DD0404&ring=00DDCF&background=000000&stroke=00DDAA&fire=DD08DC&currStreakNum=DD0202"/>
+        <img title="" alt="Cody-coder017 streak" src="https://github-readme-streak-stats.herokuapp.com?user=Cody-coder017&theme=neon-dark&hide_border=false&border=DD0404&ring=00DDCD&background=000000&stroke=00DDFA&fire=DD09DC&currStreakNum=DD0208"/>
     </a>
 </p>
 <p align="left">
-     <a href="https://github.com/Cody-coder017/github-readme-stats"><img alt="Cody-coder017's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Cody-coder017&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+     <a href="https://github.com/Cody-coder017/github-readme-stats"><img alt="Cody-coder017's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Cody-coder017&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D0101" /></a>
 </p>
 <p align="left">
-    <a href="https://github.com/Cody-coder017/github-readme-stats"><img alt="Cody-coder017's Top Languages" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Cody-coder017&langs_count=5&theme=midnight-purple&hide_border=true /></a>
+    <a href="https://github.com/Cody-coder017/github-readme-stats"><img alt="Cody-coder017's Top Languages" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Cody-coder017&langs_count=5&theme=midnight-purple&hide_border=true&ring=00DDCD&background=000000&stroke=00DDFA&fire=DD09DC&currStreakNum=DD0208 /></a>
 
 <p>
 
@@ -51,11 +53,13 @@
 </p>
 <p>
 
-[twitter]: https://twitter.com/Venkata68007830
+[twitter]: https://twitter.com/Cody_coder017
 [cognizance]: https://github.com/cognizance-amrita
 [instagram]: https://www.instagram.com/_venkat.mr.vk_/
 
 
+
+![](https://github.com/Cody-coder017/Cody-coder017-Cody-coder017/blob/main/profile-3d-contrib/profile-season-animate.svg)
 
 <!---
 Cody-coder017/Cody-coder017 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
