@@ -4,11 +4,11 @@
 ## I'm a Student having specialization in Artificial Intelligence, !
 
 - 🔅 <i><b>Learning everything</b></i>🙃
-- 🔮 <i><b>Currently working on Processing</b></i>
+- 🔮 <i><b>Currently working on Machine learning and deep leaning </b></i>
 - 📰 <i><b>I’m collaborator @ [CodingTrain][https://thecodingtrain.com/]</b></i>
-- ❄️ <i><b>Fun fact: I am learning Japanese/Processing/Kaggle</b></i>
+- ❄️ <i><b>Fun fact: Artist 🧑‍🎨 /b></i>
 - 😎 <i><b>Member at the [Cognizance-Amrita University][cognizance]  </b></i>
-
+- 👨‍💼 <i><b>President of the [AMC FOSS club][AMC FOSS]   </b></i>
 
 
 ### Connect with me:
@@ -56,10 +56,9 @@
 [twitter]: https://twitter.com/Cody_coder017
 [cognizance]: https://github.com/cognizance-amrita
 [instagram]: https://www.instagram.com/_venkat.mr.vk_/
+ [AMC FOSS]: https://amcfoss.wixsite.com/home/
 
 
-
-![](https://github.com/Cody-coder017/Cody-coder017-Cody-coder017/blob/main/profile-3d-contrib/profile-season-animate.svg)
 
 <!---
 Cody-coder017/Cody-coder017 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
