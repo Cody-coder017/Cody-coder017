@@ -5,12 +5,13 @@
 
 - 🔅 <i><b>Learning everything</b></i>🙃
 - 🔮 <i><b>Currently working on Machine learning and deep leaning </b></i>
-- 📰 <i><b>I’m collaborator @ [CodingTrain][https://thecodingtrain.com/]</b></i>
+- 📰 <i><b>I’m collaborator @ [CodingTrain](https://thecodingtrain.com/)</b></i>
 - ❄️ <i><b>Fun fact: Artist 🧑‍🎨 /b></i>
 - 😎 <i><b>Member at the [Cognizance-Amrita University][cognizance]  </b></i>
 - 👨‍💼 <i><b>President of the [AMC FOSS club][AMC FOSS]   </b></i>
 
- [![trophy](https://github-profile-trophy.vercel.app/?Cody-coder017)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=Cody-coder017&theme=onedark&row=2&column=4)
+
 
 
     
