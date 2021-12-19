@@ -11,7 +11,7 @@
 - 👨‍💼 <i><b>President of the [AMC FOSS club][AMC FOSS]   </b></i>
 
 
- [![trophy](https://github-profile-trophy.vercel.app/?username=Cody-coder017&no-bg=true&theme=buddhism&rank=S,AAA)]
+ [![trophy](https://github-profile-trophy.vercel.app/?username=Cody-coder017&no-bg=true&theme=buddhism&rank=S,AAA)](https://github.com/ryo-ma/github-profile-trophy)
  
 
     
