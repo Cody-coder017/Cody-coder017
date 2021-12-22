@@ -1,11 +1,7 @@
+![Metrics](https://github.com/Cody-coder017/Cody-coder017/blob/main/github-metrics.svg)
 
-<p align="right"> 
-  Visitors :<br>
-  <img src="https://profile-counter.glitch.me/Cody-coder017/count.svg" />
-</p>
-<p>
 
- <img src="https://github.com/Cody-coder017/Cody-coder017/blob/master/github-metrics.svg" alt="Metrics" width="100%">
+
 
 ## I'm a Somophore having specialization in Artificial Intelligence, !
 
@@ -35,6 +31,11 @@
         <img title="" alt="Cody-coder017 streak" src="https://github-readme-streak-stats.herokuapp.com?user=Cody-coder017&theme=neon-dark&hide_border=false&border=DD0404&ring=00DDCD&background=000000&stroke=00DDFA&fire=DD09DC&currStreakNum=DD0208"/>
     </a>
 </p>
+<p align="right"> 
+  Visitors :<br>
+  <img src="https://profile-counter.glitch.me/Cody-coder017/count.svg" />
+</p>
+<p>
 
 [twitter]: https://twitter.com/Cody_coder017
 [cognizance]: https://github.com/cognizance-amrita
