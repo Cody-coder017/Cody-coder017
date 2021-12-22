@@ -12,7 +12,7 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Cody-coder017&theme=onedark&row=2&column=4)
 
-![Metrics](https://metrics.lecoq.io/Cody coder017?template=classic&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta)
+![Metrics](https://metrics.lecoq.io/Cody-coder017?template=classic&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta)
 
     
 ### Connect with me:
