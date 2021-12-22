@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+![Metrics](https://github.com/Cody-coder017/Cody-coder017/blob/main/github-metrics.svg)
 
-You can use the [editor on GitHub](https://github.com/Cody-coder017/Cody-coder017/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## I'm a Somophore having specialization in Artificial Intelligence, !
 
-```markdown
-Syntax highlighted code block
+- 🔅 <i><b>Learning everything</b></i>🙃
+- 🔮 <i><b>Currently working on Machine learning and deep leaning </b></i>
+- 📰 <i><b>I’m collaborator @ [CodingTrain](https://thecodingtrain.com/)</b></i>
+- ❄️ <i><b>Fun fact: Artist 🧑‍🎨 /b></i>
+- 😎 <i><b>Member at the [Cognizance-Amrita University][cognizance]  </b></i>
+- 👨‍💼 <i><b>President of the [AMC FOSS club][AMC FOSS]   </b></i>
 
-# Header 1
-## Header 2
-### Header 3
+![trophy](https://github-profile-trophy.vercel.app/?username=Cody-coder017&theme=onedark&row=2&column=4)
 
-- Bulleted
-- List
+### Connect with me:
+[<img align="left" alt="twitter | Twitter" width="30px" src="https://image.flaticon.com/icons/png/512/733/733579.png" />][twitter]
+[<img align="left" alt="instagram | Instagram" width="30px" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" />][instagram]
+<br />
 
-1. Numbered
-2. List
+### Languages and Tools I am Currently Working On:
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="GitHub" width="26px" src="https://image.flaticon.com/icons/png/512/270/270798.png" />
+<br />
+<br />
 
-**Bold** and _Italic_ and `Code` text
+### 📊 Github Stats:
+<p align="left">
+    <a href="https://github.com/Cody-coder017/github-readme-streak-stats">
+        <img title="" alt="Cody-coder017 streak" src="https://github-readme-streak-stats.herokuapp.com?user=Cody-coder017&theme=neon-dark&hide_border=false&border=DD0404&ring=00DDCD&background=000000&stroke=00DDFA&fire=DD09DC&currStreakNum=DD0208"/>
+    </a>
+</p>
+<p align="right"> 
+  Visitors :<br>
+  <img src="https://profile-counter.glitch.me/Cody-coder017/count.svg" />
+</p>
+<p>
 
-[Link](url) and ![Image](src)
-```
+[twitter]: https://twitter.com/Cody_coder017
+[cognizance]: https://github.com/cognizance-amrita
+[instagram]: https://www.instagram.com/_venkat.mr.vk_/
+ [AMC FOSS]: https://amcfoss.wixsite.com/home/
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Cody-coder017/Cody-coder017/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<!---
+Cody-coder017/Cody-coder017 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
