@@ -2,7 +2,7 @@ name: Metrics
 on:
   # Schedule updates (each hour)
   schedule: [{cron: "0 * * * *"}]
-  # Lines below let you run workflow manually and on each commit
+  # Lines below let you run workflow manually and on each commit (optional)
   workflow_dispatch:
   push: {branches: ["master", "main"]}
 jobs:
@@ -47,4 +47,4 @@ jobs:
           plugin_languages_threshold: 0%	
           plugin_notable: yes	
           plugin_notable_from: all	
-          plugin_notable_repositories: yes	
+          plugin_notable_repositories: yes
