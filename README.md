@@ -36,6 +36,9 @@
   <img src="https://profile-counter.glitch.me/Cody-coder017/count.svg" />
 </p>
 <p>
+# Medium posts
+<!-- MEDIUM-STORY-LIST:START -->
+<!-- MEDIUM-STORY-LIST:END -->   
 
 [twitter]: https://twitter.com/Cody_coder017
 [cognizance]: https://github.com/cognizance-amrita
