@@ -36,7 +36,7 @@
   <img src="https://profile-counter.glitch.me/Cody-coder017/count.svg" />
 </p>
 <p>
-# Medium posts
+
 <!-- MEDIUM-STORY-LIST:START -->
 <!-- MEDIUM-STORY-LIST:END -->   
 
