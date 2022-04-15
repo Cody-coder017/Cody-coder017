@@ -43,7 +43,7 @@
 [twitter]: https://twitter.com/Cody_coder017
 [cognizance]: https://github.com/cognizance-amrita
 [instagram]: https://www.instagram.com/_venkat.mr.vk_/
- [AMC FOSS]: https://amcfoss.wixsite.com/home/
+[AMC FOSS]: https://amcfoss.wixsite.com/home/
 
 
 
