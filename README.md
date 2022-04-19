@@ -36,7 +36,7 @@
   <img src="https://profile-counter.glitch.me/Cody-coder017/count.svg" />
 </p>
 <p>
-<p align="center"><img src="https://github.com/theand9/theand9/blob/output/github-contribution-grid-snake.svg"/></p>
+<p align="center"><img src="https://github.com/Cody-coder017/Cody-coder017/blob/output/github-contribution-grid-snake.svg"/></p>
 
 <!-- MEDIUM-STORY-LIST:START -->
 <!-- MEDIUM-STORY-LIST:END -->   
